@@ -22,7 +22,7 @@ O Jornada Tech foi um curso **presencial** com carga horária de 16 horas, divid
 ## 📁 O que você vai encontrar aqui
 
 - `materiais/` – Arquivos utilizados nas oficinas (exercícios, slides, códigos, etc.)
-- `relatorio/` – Documentos institucionais e estrutura do curso
+- `informacoes/` – Documentos institucionais, estrutura do curso, registros e afins
 
 ---
 
